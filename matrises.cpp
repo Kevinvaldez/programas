@@ -13,3 +13,55 @@ float suma[10],resta[10],producto[10],division[10];
 return 0;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Dayan Kerly George Charcopa
+do{
+	resta[c]=matriz1[c]-matriz2[c];
+	cout<<resta[c];
+	
+	c=c+1;
+	cout<<" - ";
+
+}while(c<10);
+c=0;
+cout<<endl;
+
+
+
+
+
+
+
+
+
+
