@@ -17,8 +17,15 @@ return 0;
 
 
 
-
-
+do{
+	cout<< "operacion a realizar: 1 suma:" cin>>op;
+	if (op==1) {matriz1+matriz2}
+	
+	
+	cout << "El resultado de la suma: matriz1+matriz2"
+		
+		
+		return 0;
 
 
 
