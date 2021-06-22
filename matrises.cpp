@@ -15,7 +15,7 @@ return 0;
 }
 
 
-
+// Valencia Jaen Johanna
 
 do{
 	cout<< "operacion a realizar: 1 suma:" cin>>op;
