@@ -59,23 +59,6 @@ do{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Dayan Kerly George Charcopa
 cout<<"La resta de las dos matrices es: "<<endl;
 do{
@@ -89,6 +72,19 @@ do{
 c=0;
 cout<<endl;
 
+// Vernaza Cañola Romario Joel
+
+cout<<"El producto de las dos matrices es: "<<endl;
+do{
+	producto[c]=matriz1[c]*matriz2[c];
+	cout<<producto[c];
+	
+	c=c+1;
+	cout<<" - ";
+
+}while(c<10);
+c=0;
+cout<<endl;
 
 
 
