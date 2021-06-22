@@ -42,19 +42,19 @@ return 0;
 
 // Valencia Jaen Johanna
 
+cout<<"La suma de las dos matrices es: "<<end;
 do{
-	cout<< "operacion a realizar: 1 suma:" cin>>op;
-	if (op==1) {matriz1+matriz2}
+	suma[c]=matriz1[c]+atriz2[c];
+	cout<<suma[c];
 	
+	c=c+1;
+	cout<<" + ";
+
+}while(c<10);
+c=0;
+cout<<endl;
+
 	
-	cout << "El resultado de la suma: matriz1+matriz2"
-		
-		
-		return 0;
-
-
-
-
 
 
 
