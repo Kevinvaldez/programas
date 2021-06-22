@@ -52,6 +52,7 @@ do{
 
 
 // Dayan Kerly George Charcopa
+cout<<"La resta de las dos matrices es: "<<endl;
 do{
 	resta[c]=matriz1[c]-matriz2[c];
 	cout<<resta[c];
