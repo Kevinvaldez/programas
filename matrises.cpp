@@ -35,16 +35,14 @@ c=0;
 	
 	
 
-return 0;
 
-}
 
 
 // Valencia Jaen Johanna
 
 cout<<"La suma de las dos matrices es: "<<endl;
 do{
-	suma[c]=matriz1[c]+atriz2[c];
+	suma[c]=matriz1[c]+matriz2[c];
 	cout<<suma[c];
 	
 	c=c+1;
@@ -91,7 +89,7 @@ cout<<endl;
 	
 cout<<"La division de las dos matrices es: "<<endl;
 do{
-	producto[c]=matriz1[c]/matriz2[c];
+	division[c]=matriz1[c]/matriz2[c];
 	cout<<division[c];
 	
 	c=c+1;
