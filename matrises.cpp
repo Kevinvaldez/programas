@@ -42,7 +42,7 @@ return 0;
 
 // Valencia Jaen Johanna
 
-cout<<"La suma de las dos matrices es: "<<end;
+cout<<"La suma de las dos matrices es: "<<endl;
 do{
 	suma[c]=matriz1[c]+atriz2[c];
 	cout<<suma[c];
