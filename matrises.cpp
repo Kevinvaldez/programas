@@ -72,6 +72,8 @@ do{
 c=0;
 cout<<endl;
 
+	
+	
 // Vernaza Cañola Romario Joel
 
 cout<<"El producto de las dos matrices es: "<<endl;
@@ -86,7 +88,22 @@ do{
 c=0;
 cout<<endl;
 
+	
+cout<<"La division de las dos matrices es: "<<endl;
+do{
+	producto[c]=matriz1[c]/matriz2[c];
+	cout<<division[c];
+	
+	c=c+1;
+	cout<<" - ";
 
+}while(c<10);
+c=0;
+cout<<endl;
+
+return 0;
+
+}
 
 
 
