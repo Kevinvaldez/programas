@@ -9,7 +9,8 @@ float suma[10],resta[10],producto[10],division[10];
 
 
 // esta, es, la, parte, de, valdez, Mendoza, Kevin, Ismael.
-	
+//Revisado 04-07-2021  Stalin Francis
+
 	
 	do {
 	cout<<matriz1[c];
@@ -39,6 +40,7 @@ c=0;
 
 
 // Valencia Jaen Johanna
+//Revisado 04-07-2021  Stalin Francis
 
 cout<<"La suma de las dos matrices es: "<<endl;
 do{
@@ -58,6 +60,8 @@ cout<<endl;
 
 
 // Dayan Kerly George Charcopa
+//Revisado 04-07-2021  Stalin Francis
+
 cout<<"La resta de las dos matrices es: "<<endl;
 do{
 	resta[c]=matriz1[c]-matriz2[c];
@@ -73,6 +77,7 @@ cout<<endl;
 	
 	
 // Vernaza Cañola Romario Joel
+//Revisado 04-07-2021  Stalin Francis
 
 cout<<"El producto de las dos matrices es: "<<endl;
 do{
